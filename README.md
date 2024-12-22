@@ -15,3 +15,4 @@ LaraBlogVue is the project for creating an online blog using Laravel 11 and Vue 
 - Then I created App.vue file in the resources/js folder and imported it into app.js file.
 - Then I installed Laravel 11 Fortify package ```composer require laravel/fortify``` and ```php artisan fortify:install```
 - In the config/fortify.php file I made the view false and commented the features other than registration
+
